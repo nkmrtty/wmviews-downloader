@@ -1,7 +1,7 @@
 # wmviews_downloader
 
-'''python
+```python
 >>> from mvviews_downloader import DLClient
 >>> c = DLClient('./data/')
 >>> c.pageviews('201604')
-'''
+```
